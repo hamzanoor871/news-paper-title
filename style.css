@@ -1,0 +1,115 @@
+body{
+    color: rgb(65,66,63);
+    background-color: rgb(250,248,242);
+    font-family: Arial, sans-serif
+}
+#main_heading{
+      text-align: center;
+      font-weight: 900;
+      text-transform: uppercase;
+      font-size: 50px;
+}
+#div_1{
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 3px solid rgb(54,53,49);
+    border-top: 3px solid rgb(54,53,49);
+   
+}
+#div_2{
+    line-height: 8px;
+}
+#span_1{
+    font-weight: 400;
+    font-size: small;
+    
+}
+#heading1{
+  font-size: 40px;
+}
+#td1{
+    width: 33%;
+}
+#td2{
+    width: 30%;
+
+}
+#td3{
+    width: 30%;
+ 
+}
+
+#div_3{
+   text-align: justify; 
+   font-size: small;    
+   border-left: 3px solid ; 
+   line-height: 18px;
+   margin: 15px;
+   padding-left: 20px;
+    }
+#div_4{
+text-align: justify;
+font-size: small;
+border-left: 3px solid ; 
+line-height: 18px;
+margin: 20px;
+padding-left: 20px;
+}    
+#div_5{
+  text-align: justify;
+  font-weight: 600;
+  font-size: 26px;
+  margin: 25px;
+}
+ul{
+    list-style-type:"☕"
+}
+#td4{
+   width: 33%;
+}
+#td5{
+    width:30%;
+
+}
+#td6{
+    width:30%;
+
+}
+#div_6{
+    text-align: justify; 
+   font-size: small;     
+   line-height: 18px;
+   margin: 15px;
+   padding-left: 20px;
+    }
+
+#div_7{
+    text-align: justify; 
+   font-size: small;    
+   border-left: 3px solid ; 
+   line-height: 18px;
+   margin: 20px;
+   padding-left: 20px;
+}
+#div_8{
+    text-align: justify;
+    font-size: small;
+    border-left: 3px solid ; 
+    line-height: 18px;
+    margin: 20px;
+    padding-left: 20px;
+    
+       
+}
+#caption{
+    text-align: left;
+    font-weight: bold;
+    font-size: small;
+    font-size: 13px;
+     
+}
+img {
+    float: left;
+    margin-right: 20x;
+    padding-right: 20px;
+}
